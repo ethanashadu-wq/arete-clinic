@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ethanashadu-wq.github.io/arete-clinic/sitemap.xml
